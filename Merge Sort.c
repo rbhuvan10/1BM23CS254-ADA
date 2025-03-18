@@ -61,3 +61,7 @@ Output:
 Original Array: 5, 2, 7, 9, 10, 15, 3, 
 Sorted Array: 2, 3, 5, 7, 9, 10, 15,
 Time take is 0.001000 in seconds
+
+Original Array: 3, 8, 2, 1, 15, 9, 11, 4, 14, 6, 10, 3, 7, 12, 5, 
+Sorted Array: 1, 2, 3, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15,
+Time take is 0.001000 in seconds
